@@ -1,0 +1,76 @@
+Poisoning/Overdose
+Acute Urgent Care
+Altered mental status, Pupillary abnormalities, Vital sign extremes, Positive toxicology screen
+
+VISIT CONTEXT
+
+Case ID: AUC-043
+Reason for Visit: Found unresponsive by family, with slow breathing, pinpoint pupils, and empty pill bottles nearby.
+Location: Private residence
+Present at Visit: Patient and parent
+Urgency Justification: Telephone triage reported a patient who was found deeply lethargic, difficult to rouse, and breathing abnormally slowly, with a known history of substance use. This presentation indicates a life-threatening toxidrome (likely opioid overdose). Urgent, immediate face-to-face assessment and administration of an antidote (Naloxone) were mandated to reverse the respiratory depression and prevent hypoxic brain injury or fatal cardiac arrest, which could not wait for standard ambulance or clinic response times.
+
+SUBJECTIVE
+
+Chief Complaint: [Parent reports] I found him slumped on the floor, he is barely breathing, and his lips are turning blue!
+History of Present Illness: The parent discovered the patient unresponsive approximately 15 minutes ago. The patient has a severe altered mental status, presenting in a profound coma and entirely unresponsive to voice or sternal rub. The parent notes an abnormally slow respiratory rate (bradypnoea) and describes the patient's skin as clammy and pale. There is a history of prior opioid use disorder. Multiple unidentified pill bottles and drug paraphernalia are scattered near the patient.
+Functional Status: Unconscious, slumped on the floor.
+Social/Safety Concerns: Immediate life-threatening respiratory failure; high risk of aspiration.
+
+OBJECTIVE
+
+Vitals: BP: 90/55 | HR: 55 | Temp: 35.8 | RR: 6 | SpO2: 82% | Wt: 75 Kg
+General: Patient is profoundly unresponsive, cyanotic around the lips, with very shallow and slow respirations.
+Physical Exam: Neurological examination reveals a GCS of 3 (E1, V1, M1). Pupillary examination shows severe, bilateral pinpoint pupils (miosis) that are minimally reactive to light. Respiratory exam confirms severe bradypnoea (6 breaths per minute) with poor air entry bilaterally, leading to profound hypoxia (SpO2 82%). Cardiovascular exam demonstrates bradycardia and mild hypotension. The skin is cool and diaphoretic. Expected investigations in the ED would include a positive toxicology screen for opiates and an ECG evaluating for a widened QRS complex or prolonged QTc depending on co-ingestants.
+Environmental Observations: Empty blister packs of Oxycodone and Diazepam found on the bedside table.
+Medication Reconciliation: Suspected massive poly-pharmacy overdose (Opioids + Benzodiazepines).
+
+ASSESSMENT
+
+Primary Diagnosis: Poisoning/Overdose - Status: Exacerbated
+Differentials:
+
+Massive Ischemic Stroke/Intracranial Hemorrhage - Ruled out/unlikely due to the presence of bilateral pinpoint pupils and severe respiratory depression in the context of empty pill bottles, strongly favoring a toxicological cause over a structural brain lesion.
+
+Severe Hypoglycemia - Ruled out/unlikely due to a normal capillary blood glucose measurement (5.5 mmol/L) taken immediately on assessment, and the specific pupillary findings.
+
+Post-Ictal State - Ruled out/unlikely due to the lack of witnessed seizure activity, the profound respiratory depression (rather than stertorous breathing), and the extreme miosis.
+Risk Level: Environmental/Social Risk: High
+
+CLINICAL REASONING SUMMARY
+
+The patient presents with the classic toxidrome for opioid overdose: profound altered mental status (coma), pupillary abnormalities (pinpoint pupils), and vital sign extremes (severe bradypnoea and hypoxia). The patient is in imminent danger of hypoxic respiratory arrest. The urgent after-hours intervention was absolutely life-saving. By arriving on the scene, immediately securing the airway, and administering an opioid antagonist, fatal hypoxia was reversed. A delay to await routine daytime services would have resulted in certain death within minutes.
+
+CLINICIAN CARE PLAN
+
+Clinical Interventions: Immediately positioned patient's airway (head-tilt/chin-lift). Administered Intramuscular Naloxone 400mcg stat. Delivered high-flow oxygen. Called 000 for Priority 1 Intensive Care Paramedic transport. Reassessed after 3 minutes: RR improved to 12, SpO2 92%, patient became rousable to painful stimuli but remained highly lethargic.
+Positive Behavioral Change: By strictly locking away all prescription medications and engaging with community addiction services, you remove the immediate physical access to these lethal drugs, creating a necessary barrier during moments of intense craving or crisis.
+Home-Based Services (Optional): Ambulance transport for ongoing observation and tox-screening.
+DME/Safety (Optional): None.
+Follow-up: Handover to paramedics; mandatory psychiatric and toxicology review in the hospital.
+
+SAFETY-NETTING ESCALATION PLAN
+
+Ambulance dispatched. The parent is instructed to keep the patient in the lateral recovery position. If the patient's breathing slows down again or they lose consciousness completely (as Naloxone wears off faster than long-acting opioids), a second dose of Naloxone 400mcg will be administered.
+
+PATIENT INFORMATION
+
+Disclaimer: The patient has suffered a massive, life-threatening overdose that stopped his breathing. He requires immediate hospital treatment.
+Clinical Course: The antidote given is temporary and will wear off. The hospital must monitor him closely for 12-24 hours to ensure he does not slip back into a coma, and to check for other toxic drugs in his system.
+
+SAFETY-NETTING ADVICE
+
+(To Parent): Keep him exactly as he is, on his side. Do not try to force him to drink water or throw up, as he will choke.
+
+PATIENT EDUCATION
+
+Treatment Explanation: I have given him a medication that forcefully kicks the opioids off his brain receptors, allowing him to breathe again. However, the drugs he swallowed are still in his stomach and bloodstream, meaning the coma can return at any moment.
+Actionable Steps: Gather all the empty pill packets and any remaining medication bottles to give directly to the paramedics. This tells the hospital exactly what poisons they are dealing with.
+
+SMS INFORMATION
+
+Severe Opioid/Benzodiazepine Overdose. GCS 3, RR 6, SpO2 82%, pinpoint pupils. Administered IM Naloxone 400mcg. RR improved to 12. Airway positioned. 000 dispatched.
+
+SMS EDUCATION
+
+Maintain lateral recovery position. Do not induce vomiting. Await emergency transport for continuous monitoring and toxicology screen.

@@ -1,0 +1,76 @@
+Sepsis
+Acute Urgent Care
+Hypotension, Tachypnoea, Altered mentation, Elevated serum lactate
+
+VISIT CONTEXT
+
+Case ID: AUC-046
+Reason for Visit: Rapid deterioration with confusion, extreme lethargy, and fast breathing following a recent urinary tract infection.
+Location: Nursing home
+Present at Visit: Patient and facility nursing staff
+Urgency Justification: The nursing staff reported an elderly patient who recently developed a fever and is now displaying acute confusion, rapid breathing, and a significant drop in blood pressure. This presentation is highly indicative of severe sepsis or septic shock. Urgent face-to-face assessment was critical to identify systemic hypoperfusion, initiate life-saving early goal-directed therapy (including immediate antibiotics and fluids), and arrange emergency hospital transfer, as waiting for a standard daytime review would carry an exceptionally high mortality risk.
+
+SUBJECTIVE
+
+Chief Complaint: [Nurse reports] She was fine yesterday, but today she is burning up, shaking, breathing very fast, and talking complete nonsense.
+History of Present Illness: The patient presents with a rapidly progressive, generalized deterioration over the past 12 hours. A mild urinary tract infection was diagnosed two days ago. Today, the patient developed intense chills and rigors, followed by extreme lethargy and altered mental status. The nursing staff noted the patient is tachypnoeic and tachycardic. The patient has been oliguric for the past 8 hours despite attempted oral hydration. The patient is unable to provide a coherent history due to profound confusion and disorientation.
+Functional Status: Bedbound, highly lethargic, and delirious.
+Social/Safety Concerns: Imminent risk of cardiovascular collapse and multi-organ failure.
+
+OBJECTIVE
+
+Vitals: BP: 85/50 | HR: 115 | Temp: 39.2 | RR: 28 | SpO2: 94% | Wt: 65 Kg
+General: Patient appears flushed, toxic, tachypnoeic, and is actively shivering (rigors).
+Physical Exam: Neurological examination reveals marked altered mentation (GCS 13: E3, V4, M6), characterized by delirium and poor attention span without focal deficits. Cardiovascular exam demonstrates marked hypotension and tachycardia, with delayed capillary refill (4 seconds) and mottled skin on the lower extremities, indicating profound peripheral hypoperfusion. Respiratory exam shows significant tachypnoea (RR 28), though lungs are clear to auscultation. There is no petechial or purpuric rash currently visible. Expected investigation results include an elevated serum lactate greater than 2 mmol/L and positive blood cultures identifying the causative organism.
+Environmental Observations: Strong odor of concentrated urine; patient is unable to manage their own oral intake.
+Medication Reconciliation: On oral Trimethoprim, which has clearly failed to arrest the infection.
+
+ASSESSMENT
+
+Primary Diagnosis: Sepsis - Status: Exacerbated
+Differentials:
+
+Acute Ischemic Stroke - Ruled out/unlikely due to the presence of a high fever, severe rigors, and global encephalopathy (delirium) without any unilateral focal neurological signs.
+
+Cardiogenic Shock - Ruled out/unlikely due to the high fever and the history of an active, untreated urinary infection, though the resulting hypotension is similarly life-threatening.
+
+Hypovolemic Shock (from dehydration alone) - Ruled out/unlikely due to the profound inflammatory signs (fever, rigors) and the rapid onset of altered mentation indicating a systemic infectious cascade rather than simple volume loss.
+Risk Level: Environmental/Social Risk: High
+
+CLINICAL REASONING SUMMARY
+
+The patient exhibits the critical diagnostic tetrad for severe sepsis: hypotension, tachypnoea, altered mentation, and clinical signs of hypoperfusion that highly suggest an elevated serum lactate. The failure of oral antibiotics for a UTI has led to systemic bacteremia and early septic shock. An urgent home visit was absolutely life-saving; identifying the profound hypoperfusion allowed for the immediate triggering of a Priority 1 ambulance response for massive intravenous fluid resuscitation and broad-spectrum IV antibiotics (the "Sepsis Six" bundle). Any delay would have resulted in irreversible multi-organ failure and death.
+
+CLINICIAN CARE PLAN
+
+Clinical Interventions: Verified poor peripheral perfusion. Kept patient strictly supine with legs elevated to maximize cerebral and coronary perfusion. Immediately called 000 for Priority 1 Intensive Care Paramedic dispatch for IV fluid boluses and potential vasopressor support. Administered IM Ceftriaxone 1g stat as an early, broad-spectrum empiric intervention prior to transport.
+Positive Behavioral Change: (Focus is strictly on emergency medical stabilization).
+Home-Based Services (Optional): Immediate transport to an Emergency Department.
+DME/Safety (Optional): None.
+Follow-up: Handover to paramedics and ED team; likely requires ICU admission.
+
+SAFETY-NETTING ESCALATION PLAN
+
+Ambulance dispatched. The nursing staff is instructed to monitor the patient's airway continuously. If the patient becomes completely unresponsive or begins vomiting, they must be rolled into the lateral recovery position immediately.
+
+PATIENT INFORMATION
+
+Disclaimer: You have a very severe infection in your bloodstream that is causing your blood pressure to drop dangerously low. You require emergency hospital care.
+Clinical Course: The hospital team will immediately give you large amounts of intravenous fluids and strong antibiotics to fight the infection and support your blood pressure.
+
+SAFETY-NETTING ADVICE
+
+(To Nursing Staff): Do not attempt to sit her up or stand her, as her blood pressure is critically low. Keep her legs elevated and ensure she is kept warm until the paramedics arrive.
+
+PATIENT EDUCATION
+
+Treatment Explanation: The bacteria from the urinary tract infection have entered the bloodstream, causing the blood vessels to relax and leak, which drops the blood pressure. I have given an initial strong antibiotic injection, but she desperately needs intravenous fluids to restore blood flow to her vital organs.
+Actionable Steps: Have the patient's transfer paperwork and medication charts ready for the paramedics to minimize any delays on the scene.
+
+SMS INFORMATION
+
+Severe Sepsis (Urinary source). Hypotensive (85/50), tachypnoeic (28), febrile (39.2), delirious. Administered IM Ceftriaxone 1g stat. Patient positioned supine. 000 ICP dispatched.
+
+SMS EDUCATION
+
+Maintain supine positioning with legs elevated. Await immediate emergency transport for IV fluid resuscitation and broad-spectrum IV antibiotics.

@@ -1,0 +1,76 @@
+Meningitis/Encephalitis
+Acute Urgent Care
+Nuchal rigidity, Severe headache, High fever, CSF pleocytosis
+
+VISIT CONTEXT
+
+Case ID: AUC-040
+Reason for Visit: Excruciating headache, high fever, extreme sensitivity to light, and neck stiffness.
+Location: Private residence
+Present at Visit: Patient and roommate
+Urgency Justification: Telephone triage reported a young adult with a rapidly escalating, severe throbbing headache, high fever, and an inability to look at room lights or bend their neck forward. This constellation of symptoms is highly indicative of acute bacterial meningitis. Urgent, immediate clinical assessment and administration of parenteral antibiotics prior to hospital transfer were absolutely mandated; delaying treatment by even an hour significantly increases the risk of permanent neurological damage or death.
+
+SUBJECTIVE
+
+Chief Complaint: My head is pounding so hard it makes me sick, the light burns my eyes, and my neck is completely locked up.
+History of Present Illness: The patient presents with a rapidly progressive, severe generalized throbbing headache that commenced 12 hours ago. The headache is accompanied by a high fever and pronounced photophobia, with the patient keeping their eyes tightly shut and the room darkened. The patient reports severe nuchal rigidity, stating they cannot touch their chin to their chest due to intense pain and stiffness. The roommate notes the patient has had an altered mental status over the last 2 hours, appearing sluggish and confused. The patient has vomited twice.
+Functional Status: Lying in bed in a dark room, deeply distressed, groaning in pain.
+Social/Safety Concerns: Imminent risk of systemic sepsis and severe neurological decline.
+
+OBJECTIVE
+
+Vitals: BP: 100/60 | HR: 125 | Temp: 39.4 | RR: 22 | SpO2: 98% | Wt: 70 Kg
+General: Patient is acutely unwell, toxic-appearing, lying still with eyes closed, and shielding face from light.
+Physical Exam: Neurological exam reveals pronounced nuchal rigidity with marked resistance to passive neck flexion. A positive Kernig's sign is elicited (severe pain in the lower back/hamstrings on passive knee extension while the hip is flexed). A positive Brudzinski's sign is also present (involuntary flexion of the hips and knees upon forced neck flexion). The patient is lethargic and confused (GCS 14). Dermatological exam currently reveals no non-blanching petechial or purpuric rash, though this can develop rapidly. Expected investigations in the ED would include a lumbar puncture revealing cerebrospinal fluid pleocytosis with elevated protein and decreased glucose.
+Environmental Observations: Room is completely dark; vomit basin at the bedside.
+Medication Reconciliation: Took paracetamol 1g four hours ago; fever remains unresponsive.
+
+ASSESSMENT
+
+Primary Diagnosis: Meningitis/Encephalitis - Status: Exacerbated
+Differentials:
+
+Subarachnoid Hemorrhage - Ruled out/unlikely due to the prominent high fever and the gradual 12-hour onset of the headache, whereas a bleed typically presents as an afebrile, sudden "thunderclap" headache.
+
+Severe Influenza/Systemic Viral Illness - Ruled out/unlikely due to the presence of objective meningeal signs (positive Kernig's and Brudzinski's, profound nuchal rigidity) and altered mental status, which indicate direct central nervous system infection.
+
+Migraine - Ruled out/unlikely due to the high fever, toxic appearance, and the objective stiffness of the neck on passive movement, far exceeding the typical presentation of a migraine.
+Risk Level: Environmental/Social Risk: High
+
+CLINICAL REASONING SUMMARY
+
+The patient presents with the textbook diagnostic tetrad for acute meningitis: nuchal rigidity, a severe throbbing headache, a high fever (39.4°C), and altered mental status (anticipating CSF pleocytosis). The presence of positive Kernig's and Brudzinski's signs confirms severe meningeal inflammation. Acute bacterial meningitis is a time-critical medical emergency. An urgent home visit was essential to administer the first dose of broad-spectrum intravenous antibiotics immediately upon clinical suspicion, as early administration drastically reduces mortality and morbidity before the patient even reaches the hospital scanner.
+
+CLINICIAN CARE PLAN
+
+Clinical Interventions: Administered Intravenous Ceftriaxone 2g stat (alongside IV Dexamethasone 10mg to reduce inflammatory neurological damage). Kept patient in a darkened, quiet environment. Immediately called 000 for Priority 1 ambulance transport to the Emergency Department for further workup (CT Head, Lumbar Puncture).
+Positive Behavioral Change: (N/A in this acute systemic infection setting. Post-recovery advice would include ensuring all relevant vaccinations, such as Meningococcal ACWY/B, are up to date).
+Home-Based Services (Optional): Immediate ambulance transport.
+DME/Safety (Optional): None.
+Follow-up: Handover to paramedics; infectious disease and neurology teams will manage inpatient.
+
+SAFETY-NETTING ESCALATION PLAN
+
+Ambulance dispatched. The roommate is instructed to continually check the patient's skin. If a red or purple spotted rash appears that does not fade when a glass is rolled over it (non-blanching), update the 000 dispatcher immediately, as this indicates meningococcal septicaemia.
+
+PATIENT INFORMATION
+
+Disclaimer: Your symptoms strongly suggest a severe bacterial infection of the fluid surrounding your brain and spinal cord. You need an immediate lumbar puncture and brain scan at the hospital.
+Clinical Course: Bacterial meningitis is life-threatening, but the massive dose of antibiotics I have given you has already started fighting the bacteria. The hospital will continue IV antibiotics for several days.
+
+SAFETY-NETTING ADVICE
+
+Do not try to sit up or move. Keep your eyes closed. The ambulance is coming to take you directly to the resuscitation bay.
+
+PATIENT EDUCATION
+
+Treatment Explanation: I have injected a massive dose of antibiotics directly into your vein. In cases of suspected meningitis, the golden rule is to give antibiotics immediately, even before the hospital does the spinal tap, to give your brain the best chance of full recovery.
+Actionable Steps: Let your roommate pack your ID. Try to take slow breaths and stay as still as possible to reduce the pressure in your head while we wait.
+
+SMS INFORMATION
+
+Suspected Acute Bacterial Meningitis. Febrile (39.4), nuchal rigidity, +Kernig's, +Brudzinski's, photophobia. Administered IV Ceftriaxone 2g and IV Dexamethasone 10mg stat. 000 dispatched.
+
+SMS EDUCATION
+
+Maintain quiet, darkened environment. Await immediate transport for urgent CT head, Lumbar Puncture, and ongoing IV antibiotics.
